@@ -16,3 +16,7 @@ Tiempo de retorno es desde que un proceso arriba al sistema hasta que termina su
 Afinidad a procesador en Arq multinucleo es para Reutilizar lineas de datos calientes residentes en Caché
 
 ## 4 Bloqueo
+
+Si no hay espera circular no hay Interbloqueo
+
+DIjktra = Algoritmo del Banquero
